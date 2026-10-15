@@ -20,8 +20,8 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/programming-and-software-engineering/python-best-practices-and-oop/python_best_practices_and_oop.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Python Object Oriented Programming - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-oop-playground)
-    - [Python Object Oriented Programming - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-oop)
+    - [Python Object Oriented Programming - Playground](https://github.com/Marco-Picone-Teaching/python-oop-playground)
+    - [Python Object Oriented Programming - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-oop)
 
 **📚 Python Advanced Topics: Concurrency, Queues, Event-Driven Architectures & Testing**
   - *📖 Lecture*
@@ -35,7 +35,7 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-protocols-overview/iot_protocols_overview.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Python TCP & UDP - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-tcp-udp-playground)
+    - [Python TCP & UDP - Playground](https://github.com/Marco-Picone-Teaching/python-tcp-udp-playground)
 
 **📚 The HTTP Protocol & RESTful Architectural Style**
   - *📖 Lecture*
