@@ -48,8 +48,8 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/pubsub-mqtt-protocol/pubsub_mqtt_protocol.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Python MQTT - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-mqtt-playground)
-    - [Python MQTT - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-mqtt)
+    - [Python MQTT - Playground](https://github.com/Marco-Picone-Teaching/python-mqtt-playground)
+    - [Python MQTT - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-mqtt)
 
 ## 🏗️ Software Architectures
 
