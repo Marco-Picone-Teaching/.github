@@ -57,11 +57,12 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *🛠️ Source Code - Playground & Laboratory*
     - [Python CoAP - Playground](https://github.com/Marco-Picone-Teaching/python-coap-playground)
     - [Python CoAP - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap)
-    - [Python CoAP Interoperability - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap-interoperability)
 
 **📚 Resource & Service Discovery**
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/resource-and-service-discovery/resource_and_service_discovery.md)
+  - *🛠️ Source Code - Laboratory*
+    - [Python CoAP Interoperability - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap-interoperability)
 
 **📚 IoT Smart Object Design**
   - *📖 Lecture*
