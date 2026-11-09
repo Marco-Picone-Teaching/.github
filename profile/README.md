@@ -20,8 +20,8 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/programming-and-software-engineering/python-best-practices-and-oop/python_best_practices_and_oop.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Python Object Oriented Programming - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-oop-playground)
-    - [Python Object Oriented Programming - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-oop)
+    - [Python Object Oriented Programming - Playground](https://github.com/Marco-Picone-Teaching/python-oop-playground)
+    - [Python Object Oriented Programming - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-oop)
 
 **📚 Python Advanced Topics: Concurrency, Queues, Event-Driven Architectures & Testing**
   - *📖 Lecture*
@@ -35,7 +35,7 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-protocols-overview/iot_protocols_overview.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Python TCP & UDP - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-tcp-udp-playground)
+    - [Python TCP & UDP - Playground](https://github.com/Marco-Picone-Teaching/python-tcp-udp-playground)
 
 **📚 The HTTP Protocol & RESTful Architectural Style**
   - *📖 Lecture*
@@ -48,8 +48,38 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/pubsub-mqtt-protocol/pubsub_mqtt_protocol.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Python MQTT - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-mqtt-playground)
-    - [Python MQTT - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-mqtt)
+    - [Python MQTT - Playground](https://github.com/Marco-Picone-Teaching/python-mqtt-playground)
+    - [Python MQTT - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-mqtt)
+
+**📚 The Constrained Application Protocol (CoAP)**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/coap-protocol/coap_protocol.md)
+  - *🛠️ Source Code - Playground & Laboratory*
+    - [Python CoAP - Playground](https://github.com/Marco-Picone-Teaching/python-coap-playground)
+    - [Python CoAP - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap)
+    - [Python CoAP Interoperability - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-coap-interoperability)
+
+**📚 Resource & Service Discovery**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/resource-and-service-discovery/resource_and_service_discovery.md)
+
+**📚 IoT Smart Object Design**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-smart-object-design/iot_smart_object_design.md)
+
+## 🗂️ Data Formats
+
+**📚 Classic Data Formats: JSON, YAML, TOML & CSV**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/data-formats/data-formats-classic/data_formats_classic.md)
+
+**📚 IoT Data Formats - Sensor Measurement Lists (SenML)**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/data-formats/data-formats-iot-senml/data_formats_iot_senml.md)
+
+**📚 IoT Data Formats - Concise Binary Object Representation (CBOR)**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/data-formats/data-formats-iot-cbor/data_formats_iot_cbor.md)
 
 ## 🏗️ Software Architectures
 
@@ -57,8 +87,8 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/software-architectures/soft-arch-monolithic-approaches/soft_arch_monolithic_approaches.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Python Monolithic Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-playground)
-    - [Python Monolithic Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-laboratory)
+    - [Python Monolithic Software Architecture - Playground](https://github.com/Marco-Picone-Teaching/iot-monolithic-arch-playground)
+    - [Python Monolithic Software Architecture - Laboratory](https://github.com/Marco-Picone-Teaching/iot-monolithic-arch-laboratory)
 
 **📚 Software Architecture - Distributed Approaches**
   - *📖 Lecture*
@@ -68,10 +98,10 @@ Each course or activity selects the modules it needs, so that all of them share 
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/software-architectures/soft-arch-microservices/soft_arch_microservices.md)
   - *🛠️ Source Code - Playground & Laboratory*
-    - [Docker - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/docker-playground)
-    - [Docker - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/docker-laboratory)
-    - [Python Microservices Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-playground)
-    - [Python Microservices Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-laboratory)
+    - [Docker - Playground](https://github.com/Marco-Picone-Teaching/docker-playground)
+    - [Docker - Laboratory](https://github.com/Marco-Picone-Teaching/docker-laboratory)
+    - [Python Microservices Software Architecture - Playground](https://github.com/Marco-Picone-Teaching/iot-microservice-arch-playground)
+    - [Python Microservices Software Architecture - Laboratory](https://github.com/Marco-Picone-Teaching/iot-microservice-arch-laboratory)
 
 ## 🧩 End-to-End System Design
 
