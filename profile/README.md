@@ -104,6 +104,12 @@ Each course or activity selects the modules it needs, so that all of them share 
     - [Python Microservices Software Architecture - Playground](https://github.com/Marco-Picone-Teaching/iot-microservice-arch-playground)
     - [Python Microservices Software Architecture - Laboratory](https://github.com/Marco-Picone-Teaching/iot-microservice-arch-laboratory)
 
+## ☁️ Cloud & Edge Computing
+
+**📚 Edge Computing for the IoT**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/cloud-edge-computing/edge-computing-for-the-iot/edge_computing_for_the_iot.md)
+
 ## 🧩 End-to-End System Design
 
 **📚 End-2-End Architecture Design**
